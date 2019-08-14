@@ -326,7 +326,7 @@ s.linkTrackEvents="event1"
 
 >[!NOTE]
 >
->The variable *`pageName`* cannot be set for a file download, exit link, or custom link, because each of the link types is not a page view and does not have an associated page name. Additionally, the page URL will not be retained for these link types (the linkURL parameter is used instead and populates the associated report).
+>The variable *`pageName`* cannot be set for a file download, exit link, or custom link, because each of the link types is not a page view and does not have an associated page name. Additionally, the page URL will not be retained for these link types (the <code> linkURL </code> parameter is used instead and populates the associated report).
 
 >[!NOTE]
 >
